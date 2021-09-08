@@ -1,11 +1,11 @@
 # onestep-vue
 
-## Project setup
+## 项目构建
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 项目运行
 ```
 npm run serve
 ```
@@ -15,10 +15,6 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### 这算是本人第一个正规一点的拉跨小项目，也是跟着大佬的教程做的，所以项目名叫做一步
+#### 也算是给自己的学习一个总结
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
